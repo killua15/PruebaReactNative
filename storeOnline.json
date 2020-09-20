@@ -1,0 +1,311 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Iphone X",
+      "cost": "600",
+      "deparmet": 1,
+      "image": "https://drop.ndtv.com/TECH/product_database/images/913201720152AM_635_iphone_x.jpeg",
+      "category": 1
+    },
+    {
+      "id": 2,
+      "name": "Macbook Air",
+      "cost": "600",
+      "deparmet": 1,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71k3fJh5EwL._AC_SX679_.jpg",
+      "category": 2
+    },
+    {
+      "id": 3,
+      "name": "Underwear Panties",
+      "cost": "100",
+      "deparmet": 2,
+      "image": "https://m.media-amazon.com/images/I/71XjSjT85hL._AC_UL320_.jpg",
+      "category": 4
+    },
+    {
+      "id": 4,
+      "name": "SWEAT DRESSING",
+      "cost": "100",
+      "deparmet": 2,
+      "image": "https://m.media-amazon.com/images/I/91Z4bkTSV4L._AC_UL320_.jpg",
+      "category": 4
+    },
+    {
+      "id": 5,
+      "name": "Fanta",
+      "cost": "100",
+      "deparmet": 3,
+      "image": "https://m.media-amazon.com/images/I/81cPkRkbXKL._AC_UL320_.jpg",
+      "category": 3
+    },
+    {
+      "id": 6,
+      "name": "Asdasd",
+      "cost": "Asdasd",
+      "deparmet": 1,
+      "image": "Sdasdasd",
+      "category": 2
+    },
+    {
+      "id": 7,
+      "name": "Dasd",
+      "cost": "Asdasd",
+      "deparmet": 2,
+      "image": "Asdasd",
+      "category": 1
+    },
+    {
+      "id": 8,
+      "name": "Asdasd",
+      "cost": "Asaass",
+      "deparmet": 2,
+      "image": "Asdsd",
+      "category": 4
+    },
+    {
+      "id": 9,
+      "name": "Asdasd",
+      "cost": "Asdasd",
+      "deparmet": 3,
+      "image": "Asd",
+      "category": 3
+    },
+    {
+      "id": 10,
+      "name": "Asdasd",
+      "cost": "Asdasdasdasdasdasd",
+      "deparmet": 2,
+      "image": "Asdasd",
+      "category": 4
+    },
+    {
+      "id": 11,
+      "name": "Adasd",
+      "cost": "Asdasd",
+      "deparmet": 1,
+      "image": "Asdasd",
+      "category": 2
+    },
+    {
+      "id": 12,
+      "name": "Aaa",
+      "cost": "Aaa",
+      "deparmet": 1,
+      "image": "Aaa",
+      "category": 4
+    },
+    {
+      "id": 13,
+      "name": "Mama",
+      "cost": "Mama",
+      "deparmet": 2,
+      "image": "Mama",
+      "category": 2
+    },
+    {
+      "id": 14,
+      "name": "Asd",
+      "cost": "Aaaa",
+      "deparmet": 2,
+      "image": "Ass",
+      "category": 4
+    },
+    {
+      "id": 15,
+      "name": "Mimama",
+      "cost": "Tatica",
+      "deparmet": 1,
+      "image": "https://m.media-amazon.com/images/I/81PtEw326aL._AC_SY400_.jpg",
+      "category": 1
+    },
+    {
+      "name": "Asdasdasdasd",
+      "cost": "Asdasdasdasd",
+      "deparmet": 2,
+      "image": "Asdasdasdasd",
+      "category": 4,
+      "id": 16
+    },
+    {
+      "name": "Asdasdasda",
+      "cost": "Asdasdasd",
+      "deparmet": 3,
+      "image": "Asdasdasd",
+      "category": 4,
+      "id": 17
+    },
+    {
+      "id": 18,
+      "name": "Asd",
+      "cost": "Asdad",
+      "deparmet": 3,
+      "image": "Asds",
+      "category": 3
+    },
+    {
+      "id": 19,
+      "name": "Asd1111",
+      "cost": "Asdad",
+      "deparmet": 3,
+      "image": "Asds",
+      "category": 3
+    },
+    {
+      "id": 20,
+      "name": "1111",
+      "cost": "11111",
+      "deparmet": 1,
+      "image": "111",
+      "category": 1
+    },
+    {
+      "id": 21,
+      "name": "55",
+      "cost": "555",
+      "deparmet": 1,
+      "image": "5555",
+      "category": 4
+    },
+    {
+      "id": 22,
+      "name": "23232",
+      "cost": "32323",
+      "deparmet": 2,
+      "image": "2323",
+      "category": 4
+    },
+    {
+      "id": 23,
+      "name": "",
+      "cost": "",
+      "deparmet": 0,
+      "image": "",
+      "category": 0
+    },
+    {
+      "id": "[object Object]1",
+      "name": "Asd",
+      "cost": "Asdasdasd",
+      "deparmet": 2,
+      "image": "Asdasd",
+      "category": 1
+    },
+    {
+      "id": "[object Object]11",
+      "name": "Asdasd55555",
+      "cost": "55555",
+      "deparmet": 2,
+      "image": "5555",
+      "category": 4
+    },
+    {
+      "id": {
+        "id": "[object Object]11",
+        "name": "Asdasd55555",
+        "cost": "55555",
+        "deparmet": 2,
+        "image": "5555",
+        "category": 4
+      },
+      "name": "Asdasd55555",
+      "cost": "55555ssss",
+      "deparmet": 2,
+      "image": "5555",
+      "category": 3
+    },
+    {
+      "name": "Sasdasd",
+      "cost": "Asasdasd",
+      "deparmet": 3,
+      "image": "Xzccxcxc",
+      "category": 1,
+      "id": 24
+    },
+    {
+      "name": "Sasdasd",
+      "cost": "Asasdasd",
+      "deparmet": 3,
+      "image": "Xzccxcxc",
+      "category": 1,
+      "id": 25
+    },
+    {
+      "name": "Sasdasd",
+      "cost": "Asasdasd",
+      "deparmet": 3,
+      "image": "Xzccxcxc",
+      "category": 1,
+      "id": 26
+    },
+    {
+      "name": "Sasdasd",
+      "cost": "Asasdasd",
+      "deparmet": 3,
+      "image": "Xzccxcxc",
+      "category": 1,
+      "id": 27
+    },
+    {
+      "name": "Sasdasd",
+      "cost": "Asasdasd",
+      "deparmet": 3,
+      "image": "Xzccxcxc",
+      "category": 1,
+      "id": 28
+    },
+    {
+      "name": "Asdasd",
+      "cost": "Asdasd",
+      "deparmet": 3,
+      "image": "Asdasd",
+      "category": 4,
+      "id": 29
+    },
+    {
+      "name": "Asdasd",
+      "cost": "Asdasd",
+      "deparmet": 3,
+      "image": "Asdasd",
+      "category": 4,
+      "id": 30
+    }
+  ],
+  "department": [
+    {
+      "id": 1,
+      "name": "Electric"
+    },
+    {
+      "id": 2,
+      "name": "Clothes"
+    },
+    {
+      "id": 3,
+      "name": "Food"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Moviles",
+      "department": 1
+    },
+    {
+      "id": 2,
+      "name": "Computers",
+      "department": 1
+    },
+    {
+      "id": 3,
+      "name": "SoftDrink",
+      "department": 3
+    },
+    {
+      "id": 4,
+      "name": "Women's Clothes",
+      "department": 2
+    }
+  ]
+}
